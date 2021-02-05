@@ -1,0 +1,36 @@
+/* general */
+* {
+  margin: 0;
+}
+
+/* utilities */
+.container {
+  margin: auto;
+  width: 1200px;
+}
+
+/* header */
+header {
+  height: 100px;
+  background-color: rgb(84, 161, 251) ;
+  background-image: url('./img/pattern.png')
+}
+header .logo {
+  width: 150px;
+  padding-top: 50px;
+}
+
+
+/* main content */
+
+h1 {
+   width: 70%;
+}
+
+.correlati {
+  background-image: url('img/monitor.jpg');
+}
+
+.highlighted {
+   background-color: yellow;
+}
